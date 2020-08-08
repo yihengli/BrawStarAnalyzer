@@ -1,0 +1,162 @@
+[static]
+img_mvp = "/dist/starPlayer.bb787c75acbf89ae716bac74b751d6d8.png"
+class_block = "Zm-ak9q7wzkJG0xi8_BbE _3YkJCVEltsRkYo5jP4vO4h"
+class_result = "_3lMfMVxY-knKo2dnVHMCWG _2oxfm4amEhpH3YMMmRzUgn"
+style_font_m = "color:#FFFFFF;font-size:23px;"
+style_font_s = "color:#FFFFFF;font-size:18px;"
+style_font_xs = "color:#FFFFFF;font-size:12px;"
+
+[web]
+target = "https://brawlstats.com/profile/{user_id}?section=battle-log"
+
+    [[web.hero]]
+    name = "SHELLY"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000003.png"
+    
+    [[web.hero]]
+    name = "COLT"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000004.png"
+
+    [[web.hero]]
+    name = "BROCK"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000005.png"
+    
+    [[web.hero]]
+    name = "JESSIE"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000006.png"
+
+    [[web.hero]]
+    name = "NITA"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000007.png"
+
+    [[web.hero]]
+    name = "DYNAMIKE"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000008.png"
+
+    [[web.hero]]
+    name = "EL PRIMO"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000009.png"
+
+    [[web.hero]]
+    name = "BULL"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000010.png"
+
+    [[web.hero]]
+    name = "RICO"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000011.png'
+
+    [[web.hero]]
+    name = "BARLEY"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000012.png"
+
+    [[web.hero]]
+    name = "POCO"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000013.png"
+
+    [[web.hero]]
+    name = "MORTIS"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000014.png"
+
+    [[web.hero]]
+    name = "BO"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000015.png"
+
+    [[web.hero]]
+    name = "SPIKE"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000016.png'
+
+    [[web.hero]]
+    name = "CROW"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000017.png'
+
+    [[web.hero]]
+    name = "PIPER"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000018.png'
+
+    [[web.hero]]
+    name = "PAM"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000028.png'
+
+    [[web.hero]]
+    name = "TARA"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000029.png'
+
+    [[web.hero]]
+    name = "DARRYL"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000034.png'
+
+    [[web.hero]]
+    name = "PENNY"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000035.png'
+
+    [[web.hero]]
+    name = "FRANK"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000036.png'
+
+    [[web.hero]]
+    name = "LEON"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000037.png'
+
+    [[web.hero]]
+    name = "GENE"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000038.png'
+
+    [[web.hero]]
+    name = "CARL"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000039.png'
+
+    [[web.hero]]
+    name = "ROSA"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000040.png'
+
+    [[web.hero]]
+    name = "BIBI"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000041.png"
+
+    [[web.hero]]
+    name = "TICK"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000042.png"
+
+    [[web.hero]]
+    name = "8-BIT"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000043.png"
+
+     [[web.hero]]
+    name = "SANDY"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000044.png"   
+
+    [[web.hero]]
+    name = "EMZ"
+    avator = "https://cdn.brawlstats.com/player-thumbnails/28000045.png"
+
+    [[web.hero]]
+    name = "BEA"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000046.png'
+
+    [[web.hero]]
+    name = "MAX"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000047.png'
+
+    [[web.hero]]
+    name = "Mr.P"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000048.png'
+
+    [[web.hero]]
+    name = "JACKY"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000049.png'
+
+    [[web.hero]]
+    name = "SPROUT"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000050.png'
+
+    [[web.hero]]
+    name = "GALE"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000051.png'
+
+    [[web.hero]]
+    name = "NANI"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000052.png'
+
+    [[web.hero]]
+    name = "SURGE"
+    avator = 'https://cdn.brawlstats.com/player-thumbnails/28000053.png'
