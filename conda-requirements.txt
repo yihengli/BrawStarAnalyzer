@@ -1,0 +1,7 @@
+pandas
+tqdm
+loguru
+pytest
+bs4
+requests
+simplejson
